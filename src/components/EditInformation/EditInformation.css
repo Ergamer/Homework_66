@@ -1,0 +1,10 @@
+.SelectCategory{
+    margin-bottom: 5px;
+}
+.TitleOfCategory input{
+    width: 50%;
+    margin-bottom: 15px;
+}
+.TextOfCategory textarea{
+    width: 50%;
+}

@@ -1,0 +1,9 @@
+.GetInformation{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 50%;
+    margin: 0 auto;
+}
+.GetInformation h1, p {
+    margin: 0;
+}
